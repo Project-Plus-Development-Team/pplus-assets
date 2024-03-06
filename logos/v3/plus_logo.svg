@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 390.38 341.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #023249;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-6 {
+        opacity: .23;
+      }
+
+      .cls-7 {
+        opacity: .12;
+      }
+
+      .cls-4 {
+        fill: #434343;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="192.89" y1="-222" x2="192.89" y2="773.5" gradientUnits="userSpaceOnUse">
+      <stop offset=".26" stop-color="#4efce9"/>
+      <stop offset=".32" stop-color="#4af5d1"/>
+      <stop offset=".44" stop-color="#41e696"/>
+      <stop offset=".5" stop-color="#3ddf7a"/>
+    </linearGradient>
+  </defs>
+  <g id="full" class="cls-5">
+    <g id="Plus_Sign" data-name="Plus Sign" class="cls-5">
+      <g id="offset_drop" data-name="offset drop">
+        <path id="offset_color" data-name="offset color" class="cls-1" d="M346.18,23l-61.29,105.4h105.49l-62.73,108.07h-105.5l-60.98,105.04H53.18l60.95-105H9.12l62.75-108.05h104.98l61.22-105.45h108.11Z"/>
+        <g id="offset_striping" data-name="offset striping" class="cls-6">
+          <path class="cls-3" d="M227.91,41h108.09l6.11-11h-108.1l-6.1,11Z"/>
+          <path class="cls-3" d="M215.71,62h108.07l6.11-11h-108.08l-6.1,11Z"/>
+          <path class="cls-3" d="M203.52,83h108.06l6.11-11h-108.06l-6.1,11Z"/>
+          <path class="cls-3" d="M191.33,104h108.04l6.11-11h-108.05l-6.1,11Z"/>
+          <path class="cls-3" d="M179.14,125h108.02l6.11-11h-108.03l-6.1,11Z"/>
+          <path class="cls-3" d="M61.96,146h318.49l6.1-11H68.06l-6.1,11Z"/>
+          <path class="cls-3" d="M49.77,167h318.5l6.1-11H55.86l-6.1,11Z"/>
+          <path class="cls-3" d="M37.57,188h318.5l6.1-11H43.67l-6.1,11Z"/>
+          <path class="cls-3" d="M25.38,209h318.51l6.1-11H31.47l-6.1,11Z"/>
+          <path class="cls-3" d="M13.18,230h318.51l6.1-11H19.28l-6.1,11Z"/>
+          <path class="cls-3" d="M106,251h108l6.1-11h-108l-6.1,11Z"/>
+          <path class="cls-3" d="M93.81,272h108l6.1-11h-108l-6.1,11Z"/>
+          <path class="cls-3" d="M81.62,293h108l6.1-11h-108l-6.1,11Z"/>
+          <path class="cls-3" d="M69.43,314h108l6.1-11h-108l-6.1,11Z"/>
+          <path class="cls-3" d="M57.24,335h108l6.1-11H63.33l-6.1,11Z"/>
+        </g>
+      </g>
+      <g id="plus_interior" data-name="plus interior">
+        <polygon id="plus_color" data-name="plus color" class="cls-2" points="315.81 11.88 234.1 9.45 170.09 118.45 67.92 117.05 20.76 200.04 119.98 200.6 60.79 305.35 147.25 309.22 205.94 202.21 311.28 204.18 365.01 121.87 257.21 119.3 315.81 11.88"/>
+        <g id="striping" class="cls-7">
+          <path class="cls-4" d="M215.86,41h84.33l5.73-11h-83.9l-6.17,11Z"/>
+          <path class="cls-4" d="M203.53,62h85.21l5.73-11h-84.77l-6.17,11Z"/>
+          <path class="cls-4" d="M191.2,83h86.09l5.73-11h-85.65l-6.17,11Z"/>
+          <path class="cls-4" d="M178.87,104h86.96l5.73-11h-86.52l-6.17,11Z"/>
+          <path class="cls-4" d="M170.09,118l-101.79-1.39-4.2,7.39h299.19l1.72-2.51-107.8-2.45,2.89-5.05h-87.4l-2.61,4Z"/>
+          <path class="cls-4" d="M51.75,146h297.83l6.85-11H57.72l-5.97,11Z"/>
+          <path class="cls-4" d="M39.82,167h296.05l6.85-11H45.79l-5.97,11Z"/>
+          <path class="cls-4" d="M27.89,188h294.28l6.85-11H33.85l-5.97,11Z"/>
+          <path class="cls-4" d="M21.84,200l98.67.52-4.22,7.48h86.19l3.45-5.99,105.34,1.88,4.03-5.88H22.98l-1.14,2Z"/>
+          <path class="cls-4" d="M103.65,230h87.32l5.76-11h-87.15l-5.93,11Z"/>
+          <path class="cls-4" d="M91.78,251h87.67l5.76-11h-87.49l-5.93,11Z"/>
+          <path class="cls-4" d="M79.92,272h88.01l5.76-11h-87.84l-5.93,11Z"/>
+          <path class="cls-4" d="M68.05,293h88.36l5.76-11h-88.19l-5.93,11Z"/>
+          <path class="cls-4" d="M60.79,305.35l86.45,3.87,3.41-6.22H62.12l-1.33,2.35Z"/>
+        </g>
+      </g>
+      <path id="outline" class="cls-3" d="M337.06,0l-61.29,105.4h105.49l-62.73,108.07h-105.5l-60.98,105.04H44.06l60.95-105H0l62.75-108.05h104.98L228.95,0h108.11ZM238.61,129.01c20.53-35.37,40.8-70.3,61.21-105.47h-61.07c-20.4,35.13-40.79,70.25-61.24,105.49h-105c-11.79,20.31-23.5,40.49-35.47,61.12h105.02c-20.42,35.11-40.63,69.88-60.91,104.75h61.15c20.29-34.95,40.56-69.87,60.9-104.9h105.5c11.78-20.3,23.5-40.49,35.4-60.99h-105.49Z"/>
+    </g>
+  </g>
+</svg>

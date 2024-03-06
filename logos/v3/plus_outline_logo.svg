@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 381.27 318.5">
+  <defs>
+    <style>
+      .cls-1 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="full" class="cls-1">
+    <g id="Plus_Sign" data-name="Plus Sign" class="cls-1">
+      <path id="outline" class="cls-2" d="M337.06,0l-61.29,105.4h105.49l-62.73,108.07h-105.5l-60.98,105.04H44.06l60.95-105H0l62.75-108.05h104.98L228.95,0h108.11ZM238.61,129.01c20.53-35.37,40.8-70.3,61.21-105.47h-61.07c-20.4,35.13-40.79,70.25-61.24,105.49h-105c-11.79,20.31-23.5,40.49-35.47,61.12h105.02c-20.42,35.11-40.63,69.88-60.91,104.75h61.15c20.29-34.95,40.56-69.87,60.9-104.9h105.5c11.78-20.3,23.5-40.49,35.4-60.99h-105.49Z"/>
+    </g>
+  </g>
+</svg>
