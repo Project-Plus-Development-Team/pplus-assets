@@ -12,7 +12,7 @@ The "+" has an orange fill with a very light scanline texture.
 The "+" also has a scanline-textured, blueish, and sharp 'drop-shadow'.
 **Lore:** It was probably the team that wasn't quite satisfied with v1, maybe the community also didn't like it too much, but a logo contest was held and Neuromancer's logo won and became v2.
 
-## P+ logo v3 by Neuromancer, modified by waffeln/Function:
+## P+ logo v3 by Neuromancer, modified by waffeln/Function, vectorized by Kirbeast:
 
 **Description:** same as v2, but the "+" has a teal gradient fill.
 
